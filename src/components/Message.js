@@ -5,7 +5,7 @@ class Message extends Component {
   constructor(){
     super()
     this.state = {
-      message: 'Welcome player!'
+      message: 'Welcome player! Click play.'
     }
   }
 
